@@ -1,3 +1,9 @@
+# Gesture Phase Classification Using Machine Learning
+
+This project compares Gradient Boosting, K-Nearest Neighbours, Random Forest and Support Vector Machine classifiers for multiclass gesture-phase classification using Python and Scikit-learn. The models are evaluated using balanced accuracy, classification reports, ROC-AUC curves and confusion matrices, with additional experiments using Principal Component Analysis (PCA).
+
+## Dataset
+
 # Dataset
 
 `phpYLeydd.arff` contains the gesture phase classification data used by the project notebook.
